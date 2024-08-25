@@ -73,9 +73,11 @@ ul {
 }
 
 ul li a {
+    text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
+
 
     padding: 16px 24px;
 
